@@ -1,4 +1,7 @@
 console.log(navigator.userAgent);
+// mohit was here
+console.log("adding code for hacktoberfest");
+
 function botCheck1 () {
     var start = Date.now();
     var botPattern = "(googlebot\/|Googlebot-Mobile|Googlebot-Image|Google favicon|Mediapartners-Google|bingbot|" +
