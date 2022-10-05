@@ -1,5 +1,5 @@
 console.log(navigator.userAgent);
-// mohit was here
+// pratyush was here
 console.log("adding code for hacktoberfest");
 
 function botCheck1 () {
